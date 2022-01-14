@@ -1,1 +1,1 @@
-/Users/sanadkadu/github/pathOfTheRustacean/linked_list/target/debug/linked_list: /Users/sanadkadu/github/pathOfTheRustacean/linked_list/src/main.rs
+/Users/sanadkadu/github/cs110l-spr-2020-starter-code/week3/linked_list/target/debug/linked_list: /Users/sanadkadu/github/cs110l-spr-2020-starter-code/week3/linked_list/src/linked_list.rs /Users/sanadkadu/github/cs110l-spr-2020-starter-code/week3/linked_list/src/main.rs
